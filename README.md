@@ -40,8 +40,11 @@ The complete project was **developed and tested in Google Colab**.
 ```text
 AI-Project/
 │
-├── 📓 Project.ipynb
+├── 📓 AI_SOCIAL_MEDIA_CONTENT_CREATOR.ipynb
 └── 📄 README.md
+└──  requirement.png
+└── requirements.txt
+└── thummnail.png
 ```
 
 ---
