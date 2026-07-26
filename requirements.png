@@ -1,0 +1,24 @@
+### 🛠️ **Project Requirements**
+
+**💻 Software Requirements**
+
+* Python 3.x
+* Google Colab / Jupyter Notebook
+
+**📦 Python Libraries**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Google Generative AI
+
+**🤖 AI Requirements**
+
+* Google Gemini API
+* Gemini 2.5 Flash Model
+
+**🔐 API Configuration**
+
+* Gemini API Key
+* API Key must be kept private and should not be uploaded to GitHub
